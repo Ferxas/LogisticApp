@@ -1233,11 +1233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\backend\\LogisticApp\\LogisticApp.csproj",
+      "projectUniqueName": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\LogisticApp\\LogisticApp.csproj",
       "projectName": "LogisticApp",
-      "projectPath": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\backend\\LogisticApp\\LogisticApp.csproj",
+      "projectPath": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\LogisticApp\\LogisticApp.csproj",
       "packagesPath": "C:\\Users\\ferxas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\backend\\LogisticApp\\obj\\",
+      "outputPath": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\LogisticApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

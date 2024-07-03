@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/R2mClsO7QM=",
+  "dgSpecHash": "beTUmqZ+yLU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\backend\\LogisticApp\\LogisticApp.csproj",
+  "projectFilePath": "C:\\Users\\ferxas\\Documents\\React\\logistic-app\\LogisticApp\\LogisticApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferxas\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\ferxas\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
