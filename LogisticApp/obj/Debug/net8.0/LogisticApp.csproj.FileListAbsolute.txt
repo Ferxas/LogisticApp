@@ -1,0 +1,7 @@
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.csproj.AssemblyReference.cache
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.AssemblyInfoInputs.cache
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.AssemblyInfo.cs
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.csproj.CoreCompileInputs.cache
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferxas\Documents\React\logistic-app\backend\LogisticApp\obj\Debug\net8.0\LogisticApp.MvcApplicationPartsAssemblyInfo.cache
